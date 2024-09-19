@@ -1,7 +1,3 @@
-#TODO_LIST:
-# - 
-
-
 import pygame, os
 
 # --- game settings ---------------------
